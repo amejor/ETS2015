@@ -3,7 +3,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 
-		System.out.print("Hola mundo S");
+		System.out.print("Hola mundo Cruel Ruben");
 	}
 
 }
